@@ -1,5 +1,5 @@
 ### Deploy on Surge !!
-- aslambaba-shotgear-project.surge.sh
+- aslambaba-shotgear-project.netlify.app
 
 ### Using Languages
 - HTML5
